@@ -1,5 +1,6 @@
 {
-name:"Evgen",
-age:25,
+name:"Evgen"
+age:25
 isTheBestTeacher:true
 }
+
